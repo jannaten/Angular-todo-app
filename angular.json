@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularChess"
+    }
+  },
+  "defaultProject": "angularChess",
+  "cli": {
+    "analytics": "e7365b79-d3ec-4735-b994-c9890af76b0b"
+  }
 }
